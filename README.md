@@ -53,3 +53,6 @@ Issue: Laptop will not connect to Wi-Fi
 Priority: High
 Status: Open
 ```
+## What I Learned
+
+While building this project, I practiced using Python lists and dictionaries, loops, conditional statements, input validation, error handling, and searching and updating stored data. I also learned how to build a menu-driven program and manage multiple records within a Python application.
