@@ -30,3 +30,26 @@ A Python-based help desk ticket system that allows users to create, view, update
 3. Open the project folder in Visual Studio Code or another code editor.
 4. Run the `help_desk.py` file.
 5. Use the numbered menu options to create, view, update, search, or close tickets.
+## Sample Output
+
+```
+IT HELP DESK
+1. Create Ticket
+2. View Tickets
+3. Update Ticket Status
+4. Search Tickets
+5. Exit
+
+Choose an option: 1
+Enter employee name: Sarah Price
+Describe the issue: Laptop will not connect to Wi-Fi
+Enter priority (Low, Medium, High): High
+Ticket created successfully!
+
+--- TICKET ---
+Ticket ID: 1
+Employee: Sarah Price
+Issue: Laptop will not connect to Wi-Fi
+Priority: High
+Status: Open
+```
